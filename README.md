@@ -28,10 +28,10 @@ Information Technology student building and breaking things across cloud infrast
 Containerized Flask service deployed via Docker + Kubernetes, infrastructure provisioned with Terraform, CI/CD via GitHub Actions, monitored with Prometheus/Grafana. Load-tested under increasing traffic to measure latency, throughput, and resource usage.
 
 **[MiniOS](https://github.com/Mailazz/MiniOS)**
-An educational operating system simulator in C++ — process management, CPU scheduling (FCFS, Round Robin, SJF, Priority), and paging/page-replacement algorithms (FIFO, LRU).
+An educational operating system simulator in C++, process management, CPU scheduling (FCFS, Round Robin, SJF, Priority), and paging/page-replacement algorithms (FIFO, LRU).
 
 **[Distributed Task Processing System](https://github.com/Mailazz/distributed-task-system)**
-A distributed job-processing platform with an API gateway, message queue, and multiple worker processes — includes retry handling and worker-failure recovery, benchmarked across 1–4 workers.
+A distributed job-processing platform with an API gateway, message queue, and multiple worker processes, includes retry handling and worker-failure recovery, benchmarked across 1-4 workers.
 
 **[NetScan](https://github.com/Mailazz/NetScan)**
 A multithreaded TCP port scanner and host-discovery tool in Python, with live logging of open ports and response latency.
