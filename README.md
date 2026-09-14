@@ -30,7 +30,7 @@ Containerized Flask service deployed via Docker + Kubernetes, infrastructure pro
 **[MiniOS](https://github.com/Mailazz/MiniOS)**
 An educational operating system simulator in C++, process management, CPU scheduling (FCFS, Round Robin, SJF, Priority), and paging/page-replacement algorithms (FIFO, LRU).
 
-**[Distributed Task Processing System](https://github.com/Mailazz/distributed-task-system)**
+**[Distributed Task Processing System](https://github.com/Mailazz/Distributed-Task-Processing-System-)**
 A distributed job-processing platform with an API gateway, message queue, and multiple worker processes, includes retry handling and worker-failure recovery, benchmarked across 1-4 workers.
 
 **[NetScan](https://github.com/Mailazz/NetScan)**
